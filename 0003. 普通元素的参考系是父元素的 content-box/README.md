@@ -4,7 +4,7 @@
 
 ## 🔗 links
 
-## 📝 notes
+## 📒 notes
 
 ## 💻 demo
 
