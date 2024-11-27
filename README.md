@@ -214,5 +214,3 @@ pending
   - [4. 🤖 AI](https://github.com/Tdahuyou/html-css/tree/main/0023.%20%E4%B8%80%E4%BA%9B%E5%B8%B8%E8%A7%81%E7%9A%84%E9%80%9A%E7%94%A8%20css/README.md#4--ai)
   <!-- endregion:toc -->
   
-
-- [ ] [9999. template](https://github.com/Tdahuyou/html-css/tree/main/9999.%20template/README.md) <!-- [locale](./9999.%20template/README.md) -->
