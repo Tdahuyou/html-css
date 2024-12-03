@@ -2,7 +2,8 @@
 
 <!-- region:toc -->
 - [1. 🔗 MDN background](#1--mdn-background)
-- [2. 💻 demos.1 - 使用 background-image 设置背景](#2--demos1---使用-background-image-设置背景)
+- [2. ⏰ background-* 忘记哪个就找些 demo 来看看，并汇总到 demos.* 中。](#2--background-*-忘记哪个就找些-demo-来看看并汇总到-demos*-中)
+- [3. 💻 demos.1 - 使用 background-image 设置背景](#3--demos1---使用-background-image-设置背景)
 <!-- endregion:toc -->
 
 ## 1. 🔗 MDN background
@@ -22,7 +23,9 @@
     - background-repeat
     - background-size
 
-## 2. 💻 demos.1 - 使用 background-image 设置背景
+## 2. ⏰ background-* 忘记哪个就找些 demo 来看看，并汇总到 demos.* 中。
+
+## 3. 💻 demos.1 - 使用 background-image 设置背景
 
 ```html
 <!-- 

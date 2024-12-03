@@ -4,10 +4,21 @@ pending
 
 <!-- region:toc -->
 - [html-css](#html-css)
-  - [1. 笔记内容待完善](#1-笔记内容待完善)
+  - [1. css 属性](#1-css-属性)
+  - [2. 笔记内容待完善](#2-笔记内容待完善)
 <!-- endregion:toc -->
 
-## 1. 笔记内容待完善
+## 1. css 属性
+
+- [ ] [0024. background 基本使用](https://github.com/Tdahuyou/html-css/tree/main/0024.%20background%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md) <!-- [locale](./0024.%20background%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md) -->  
+  <!-- region:toc -->
+  - [1. 🔗 MDN background](https://github.com/Tdahuyou/html-css/tree/main/0024.%20background%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md#1--mdn-background)
+  - [2. ⏰ background-* 忘记哪个就找些 demo 来看看，并汇总到 demos.* 中。](https://github.com/Tdahuyou/html-css/tree/main/0024.%20background%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md#2--background-*-忘记哪个就找些-demo-来看看并汇总到-demos*-中)
+  - [3. 💻 demos.1 - 使用 background-image 设置背景](https://github.com/Tdahuyou/html-css/tree/main/0024.%20background%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md#3--demos1---使用-background-image-设置背景)
+  <!-- endregion:toc -->
+  
+
+## 2. 笔记内容待完善
 
 - [ ] [0001. 给 img 元素设置 100% 尺寸防止溢出容器](https://github.com/Tdahuyou/html-css/tree/main/0001.%20%E7%BB%99%20img%20%E5%85%83%E7%B4%A0%E8%AE%BE%E7%BD%AE%20100%25%20%E5%B0%BA%E5%AF%B8%E9%98%B2%E6%AD%A2%E6%BA%A2%E5%87%BA%E5%AE%B9%E5%99%A8/README.md) <!-- [locale](./0001.%20%E7%BB%99%20img%20%E5%85%83%E7%B4%A0%E8%AE%BE%E7%BD%AE%20100%25%20%E5%B0%BA%E5%AF%B8%E9%98%B2%E6%AD%A2%E6%BA%A2%E5%87%BA%E5%AE%B9%E5%99%A8/README.md) -->  
   <!-- region:toc -->
@@ -146,16 +157,5 @@ pending
 - [ ] [0023. 一些常见的通用 css](https://github.com/Tdahuyou/html-css/tree/main/0023.%20%E4%B8%80%E4%BA%9B%E5%B8%B8%E8%A7%81%E7%9A%84%E9%80%9A%E7%94%A8%20css/README.md) <!-- [locale](./0023.%20%E4%B8%80%E4%BA%9B%E5%B8%B8%E8%A7%81%E7%9A%84%E9%80%9A%E7%94%A8%20css/README.md) -->  
   <!-- region:toc -->
   - [1. ⏰ 从语雀搬运笔记](https://github.com/Tdahuyou/html-css/tree/main/0023.%20%E4%B8%80%E4%BA%9B%E5%B8%B8%E8%A7%81%E7%9A%84%E9%80%9A%E7%94%A8%20css/README.md#1--从语雀搬运笔记)
-  <!-- endregion:toc -->
-  
-
-
-
-## ⏰ 待分组
-
-- [ ] [0024. background 基本使用](https://github.com/Tdahuyou/html-css/tree/main/0024.%20background%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md) <!-- [locale](./0024.%20background%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md) -->  
-  <!-- region:toc -->
-  - [1. 🔗 MDN background](https://github.com/Tdahuyou/html-css/tree/main/0024.%20background%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md#1--mdn-background)
-  - [2. 💻 demos.1 - 使用 background-image 设置背景](https://github.com/Tdahuyou/html-css/tree/main/0024.%20background%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md#2--demos1---使用-background-image-设置背景)
   <!-- endregion:toc -->
   
