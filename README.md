@@ -148,3 +148,14 @@ pending
   - [1. ⏰ 从语雀搬运笔记](https://github.com/Tdahuyou/html-css/tree/main/0023.%20%E4%B8%80%E4%BA%9B%E5%B8%B8%E8%A7%81%E7%9A%84%E9%80%9A%E7%94%A8%20css/README.md#1--从语雀搬运笔记)
   <!-- endregion:toc -->
   
+
+
+
+## ⏰ 待分组
+
+- [ ] [0024. background 基本使用](https://github.com/Tdahuyou/html-css/tree/main/0024.%20background%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md) <!-- [locale](./0024.%20background%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md) -->  
+  <!-- region:toc -->
+  - [1. 🔗 MDN background](https://github.com/Tdahuyou/html-css/tree/main/0024.%20background%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md#1--mdn-background)
+  - [2. 💻 demos.1 - 使用 background-image 设置背景](https://github.com/Tdahuyou/html-css/tree/main/0024.%20background%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md#2--demos1---使用-background-image-设置背景)
+  <!-- endregion:toc -->
+  
