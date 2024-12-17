@@ -1,4 +1,4 @@
-# [0024. background 基本使用](https://github.com/Tdahuyou/html-css/tree/main/0024.%20background%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
+# [0024. background](https://github.com/Tdahuyou/html-css/tree/main/0024.%20background)
 
 <!-- region:toc -->
 - [1. 🔗 MDN background](#1--mdn-background)
