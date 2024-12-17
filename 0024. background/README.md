@@ -1,15 +1,12 @@
 # [0024. background](https://github.com/Tdahuyou/html-css/tree/main/0024.%20background)
 
 <!-- region:toc -->
-- [1. 🔗 MDN background](#1--mdn-background)
-- [2. ⏰ background-* 忘记哪个就找些 demo 来看看，并汇总到 demos.* 中。](#2--background-*-忘记哪个就找些-demo-来看看并汇总到-demos*-中)
-- [3. 💻 demos.1 - 使用 background-image 设置背景](#3--demos1---使用-background-image-设置背景)
+- [1. ⏰ background-* 忘记哪个就找些 demo 来看看，并汇总到 demos.* 中。](#1--background-*-忘记哪个就找些-demo-来看看并汇总到-demos*-中)
+- [2. 💻 demos.1 - 使用 background-image 设置背景](#2--demos1---使用-background-image-设置背景)
 <!-- endregion:toc -->
-
-## 1. 🔗 MDN background
-
-- https://developer.mozilla.org/zh-CN/docs/Web/CSS/background
-  - 在侧边目录中查看 `background-*`
+- MDN background
+  - https://developer.mozilla.org/zh-CN/docs/Web/CSS/background
+    - 在侧边目录中查看 `background-*`
     - background
     - background-attachment
     - background-blend-mode
@@ -23,9 +20,9 @@
     - background-repeat
     - background-size
 
-## 2. ⏰ background-* 忘记哪个就找些 demo 来看看，并汇总到 demos.* 中。
+## 1. ⏰ background-* 忘记哪个就找些 demo 来看看，并汇总到 demos.* 中。
 
-## 3. 💻 demos.1 - 使用 background-image 设置背景
+## 2. 💻 demos.1 - 使用 background-image 设置背景
 
 ```html
 <!-- 
