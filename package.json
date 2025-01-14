@@ -1,10 +1,10 @@
 {
   "scripts": {
-    "distribute": " node ./node_modules/tnotes   --distributeREADME    --repoName=html-css",
-    "docs:publish": "    node ./node_modules/tnotes/scripts/docs-publish.js",
-    "merge": "      node ./node_modules/tnotes   --mergeREADME         --repoName=html-css",
-    "sync": "       node ./node_modules/tnotes   --syncREADME          --repoName=html-css",
-    "update": "     node ./node_modules/tnotes   --updateREADME        --repoName=html-css"
+    "distribute": "       node ./node_modules/tnotes   --distributeREADME    --repoName=html-css",
+    "docs:publish": "     node ./node_modules/tnotes/scripts/docs-publish.js",
+    "merge": "            node ./node_modules/tnotes   --mergeREADME         --repoName=html-css",
+    "sync": "             node ./node_modules/tnotes   --syncREADME          --repoName=html-css",
+    "update": "           node ./node_modules/tnotes   --updateREADME        --repoName=html-css"
   },
   "tnotesConfig": {
     "dirList": {
